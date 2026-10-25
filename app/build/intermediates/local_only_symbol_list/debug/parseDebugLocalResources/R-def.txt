@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color escuela_amarillo
+color escuela_azul
+color escuela_blanco
+drawable ic_launcher
+drawable ic_launcher_foreground
+drawable logo_escuela
+string app_name
+style Theme.MpazPro3

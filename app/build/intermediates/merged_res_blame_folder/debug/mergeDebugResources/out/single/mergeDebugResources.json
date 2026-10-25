@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mpazpro3.app-debug-60:/drawable_ic_launcher.xml.flat",
+        "source": "com.mpazpro3.app-main-62:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-debug-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mpazpro3.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-debug-60:/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mpazpro3.app-main-62:/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-debug-60:/drawable_logo_escuela.xml.flat",
+        "source": "com.mpazpro3.app-main-62:/drawable/logo_escuela.xml"
+    }
+]
